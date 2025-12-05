@@ -1,0 +1,201 @@
+id_sessao;data_visualizacao;id_usuario;plano;genero_conteudo;duracao_minutos;pais;cidade;dispositivo
+1;2025-04-13;2;Básico;Animação;51;Alemanha;Munich;TV
+2;2025-06-29;44;Premium;Animação;125;Canadá;Toronto;Celular
+3;2025-04-03;26;Básico;Drama;218;Brasil;Curitiba;Computador
+4;2025-01-15;32;Básico;Ação;60;Estados Unidos;Chicago;TV
+5;2025-04-17;6;Família;Drama;98;Reino Unido;Liverpool;Celular
+6;2025-03-13;32;Premium;Documentário;111;Canadá;Toronto;Computador
+7;2025-01-21;4;Família;Comédia;67;Canadá;Montreal;TV
+8;2025-04-13;11;Básico;Animação;52;Brasil;Rio de Janeiro;Celular
+9;2025-05-02;17;Básico;Documentário;65;Reino Unido;Liverpool;TV
+10;2025-03-16;38;Básico;Documentário;85;Alemanha;Munich;Computador
+11;2025-03-29;24;Premium;Terror;30;Canadá;Vancouver;Tablet
+12;2025-04-27;5;Básico;Comédia;40;Brasil;Belo Horizonte;Computador
+13;2025-04-10;34;Premium;Documentário;5;Alemanha;Berlin;Celular
+14;2025-04-14;6;Básico;Documentário;12;Reino Unido;Manchester;Computador
+15;2025-06-01;22;Família;Comédia;117;Canadá;Toronto;Computador
+16;2025-05-11;11;Básico;Comédia;103;Alemanha;Munich;TV
+17;2025-05-30;48;Premium;Documentário;184;Alemanha;Hamburg;Computador
+18;2025-02-22;16;Básico;Comédia;211;Alemanha;Hamburg;TV
+19;2025-01-02;33;Básico;Documentário;51;Canadá;Vancouver;Celular
+20;2025-03-29;9;Premium;Documentário;131;Canadá;Montreal;TV
+21;2025-06-07;6;Básico;Terror;60;Estados Unidos;Los Angeles;TV
+22;2025-02-07;16;Básico;Ação;218;Reino Unido;Liverpool;TV
+23;2025-05-10;29;Família;Documentário;18;Brasil;São Paulo;Celular
+24;2025-01-21;3;Premium;Drama;222;Alemanha;Hamburg;TV
+25;2025-06-10;20;Básico;Animação;32;Estados Unidos;New York;Celular
+26;2025-02-27;36;Básico;Ação;219;Brasil;Belo Horizonte;TV
+27;2025-01-22;19;Básico;Ação;82;Estados Unidos;Miami;TV
+28;2025-03-30;26;Premium;Ação;220;Canadá;Toronto;Celular
+29;2025-02-18;3;Básico;Terror;134;Alemanha;Hamburg;Computador
+30;2025-02-28;19;Básico;Documentário;113;Brasil;Recife;TV
+31;2025-06-19;20;Básico;Terror;158;Brasil;Curitiba;Celular
+32;2025-01-15;32;Básico;Documentário;18;Brasil;Recife;Computador
+33;2025-06-24;7;Premium;Terror;191;Brasil;Rio de Janeiro;Celular
+34;2025-02-20;41;Básico;Terror;60;Brasil;Rio de Janeiro;TV
+35;2025-04-18;33;Família;Animação;119;Estados Unidos;New York;TV
+36;2025-02-24;40;Básico;Drama;11;Alemanha;Hamburg;Computador
+37;2025-03-05;39;Básico;Terror;7;Canadá;Toronto;TV
+38;2025-05-11;18;Básico;Animação;115;Canadá;Montreal;Computador
+39;2025-02-20;40;Básico;Comédia;155;Canadá;Vancouver;Celular
+40;2025-05-15;1;Família;Drama;111;Canadá;Montreal;Computador
+41;2025-01-21;11;Premium;Terror;22;Estados Unidos;Los Angeles;Computador
+42;2025-03-14;28;Premium;Ação;42;Reino Unido;Liverpool;Tablet
+43;2025-06-16;25;Premium;Comédia;231;Alemanha;Hamburg;TV
+44;2025-01-18;50;Básico;Comédia;119;Brasil;Recife;Computador
+45;2025-05-12;23;Premium;Animação;19;Reino Unido;London;Celular
+46;2025-03-30;31;Básico;Comédia;196;Canadá;Toronto;Celular
+47;2025-03-01;30;Premium;Drama;221;Reino Unido;Manchester;Celular
+48;2025-01-14;42;Básico;Terror;123;Alemanha;Munich;Computador
+49;2025-01-09;35;Básico;Terror;233;Brasil;São Paulo;Tablet
+50;2025-03-31;7;Básico;Ação;32;Brasil;Rio de Janeiro;Computador
+51;2025-02-22;16;Básico;Animação;206;Alemanha;Berlin;Celular
+52;2025-05-10;26;Básico;Ação;43;Alemanha;Hamburg;Celular
+53;2025-03-25;48;Básico;Comédia;189;Canadá;Vancouver;Celular
+54;2025-04-02;49;Família;Ação;21;Brasil;Recife;TV
+55;2025-04-21;2;Básico;Drama;235;Reino Unido;London;TV
+56;2025-06-21;1;Básico;Terror;90;Estados Unidos;Los Angeles;TV
+57;2025-01-08;48;Premium;Comédia;222;Estados Unidos;Los Angeles;TV
+58;2025-06-24;12;Premium;Ação;130;Alemanha;Hamburg;TV
+59;2025-02-04;5;Básico;Animação;48;Canadá;Vancouver;TV
+60;2025-03-22;37;Básico;Drama;29;Estados Unidos;Chicago;TV
+61;2025-06-13;32;Premium;Drama;149;Brasil;São Paulo;TV
+62;2025-02-19;9;Básico;Ação;17;Alemanha;Munich;Tablet
+63;2025-04-14;41;Família;Terror;216;Reino Unido;Liverpool;Celular
+64;2025-05-12;35;Família;Ação;29;Alemanha;Berlin;TV
+65;2025-01-02;19;Básico;Comédia;72;Reino Unido;Manchester;Celular
+66;2025-05-14;48;Básico;Ação;142;Alemanha;Berlin;TV
+67;2025-02-23;16;Família;Drama;71;Alemanha;Munich;Computador
+68;2025-04-16;3;Premium;Ação;237;Alemanha;Berlin;Computador
+69;2025-01-04;20;Premium;Terror;113;Reino Unido;London;TV
+70;2025-02-23;24;Premium;Animação;150;Reino Unido;Liverpool;Celular
+71;2025-05-26;33;Premium;Documentário;115;Alemanha;Berlin;Computador
+72;2025-02-13;24;Família;Ação;232;Estados Unidos;Los Angeles;Computador
+73;2025-06-11;11;Família;Terror;115;Canadá;Vancouver;Celular
+74;2025-01-14;49;Família;Terror;218;Canadá;Montreal;Celular
+75;2025-04-05;8;Premium;Animação;38;Canadá;Vancouver;TV
+76;2025-02-17;36;Premium;Drama;115;Reino Unido;Manchester;Tablet
+77;2025-01-15;38;Premium;Terror;12;Reino Unido;Manchester;TV
+78;2025-02-09;40;Premium;Terror;172;Estados Unidos;New York;Computador
+79;2025-03-23;20;Básico;Terror;117;Canadá;Toronto;Celular
+80;2025-04-21;35;Premium;Terror;240;Canadá;Vancouver;Celular
+81;2025-02-22;48;Premium;Comédia;87;Alemanha;Hamburg;Celular
+82;2025-01-24;25;Premium;Comédia;46;Reino Unido;London;TV
+83;2025-06-03;35;Premium;Drama;173;Canadá;Montreal;TV
+84;2025-05-04;25;Premium;Ação;105;Estados Unidos;Los Angeles;TV
+85;2025-02-10;29;Básico;Terror;10;Estados Unidos;Los Angeles;TV
+86;2025-06-06;18;Básico;Animação;184;Canadá;Toronto;Computador
+87;2025-01-15;46;Básico;Ação;30;Reino Unido;Manchester;TV
+88;2025-02-14;18;Básico;Animação;68;Estados Unidos;Miami;TV
+89;2025-03-06;2;Básico;Ação;230;Alemanha;Berlin;Tablet
+90;2025-03-30;35;Premium;Drama;191;Estados Unidos;Los Angeles;Computador
+91;2025-03-12;16;Básico;Terror;188;Brasil;Rio de Janeiro;Computador
+92;2025-01-09;41;Premium;Terror;63;Brasil;São Paulo;Tablet
+93;2025-03-29;36;Básico;Documentário;113;Reino Unido;London;TV
+94;2025-05-09;33;Premium;Animação;202;Canadá;Toronto;TV
+95;2025-05-16;4;Básico;Ação;233;Reino Unido;Manchester;Computador
+96;2025-03-04;33;Básico;Ação;125;Reino Unido;Manchester;Celular
+97;2025-05-19;14;Básico;Comédia;37;Reino Unido;Liverpool;TV
+98;2025-03-22;21;Premium;Documentário;185;Reino Unido;London;Computador
+99;2025-05-16;48;Básico;Comédia;154;Alemanha;Munich;TV
+100;2025-06-12;20;Família;Comédia;25;Alemanha;Munich;TV
+101;2025-06-12;8;Básico;Comédia;202;Estados Unidos;New York;Celular
+102;2025-02-02;7;Básico;Animação;74;Brasil;Belo Horizonte;Celular
+103;2025-05-03;3;Família;Animação;116;Reino Unido;London;Celular
+104;2025-01-05;17;Premium;Drama;8;Estados Unidos;Chicago;TV
+105;2025-02-10;33;Básico;Drama;98;Brasil;Belo Horizonte;Computador
+106;2025-01-28;48;Premium;Comédia;79;Canadá;Vancouver;TV
+107;2025-05-15;12;Premium;Documentário;194;Alemanha;Berlin;TV
+108;2025-03-13;22;Premium;Ação;66;Brasil;São Paulo;Computador
+109;2025-01-12;22;Básico;Animação;98;Canadá;Toronto;Tablet
+110;2025-06-11;46;Básico;Documentário;99;Brasil;Rio de Janeiro;Computador
+111;2025-02-02;30;Premium;Terror;156;Alemanha;Berlin;Computador
+112;2025-02-17;38;Família;Animação;59;Alemanha;Berlin;Celular
+113;2025-05-31;38;Premium;Animação;141;Estados Unidos;Los Angeles;Celular
+114;2025-03-03;45;Básico;Drama;135;Reino Unido;London;TV
+115;2025-02-06;8;Premium;Ação;35;Brasil;Recife;Celular
+116;2025-04-09;27;Premium;Ação;44;Brasil;Rio de Janeiro;TV
+117;2025-06-21;27;Básico;Terror;233;Canadá;Vancouver;TV
+118;2025-04-14;34;Básico;Terror;40;Alemanha;Munich;Celular
+119;2025-02-04;21;Premium;Animação;156;Brasil;Recife;Celular
+120;2025-04-11;30;Básico;Comédia;227;Alemanha;Munich;TV
+121;2025-06-24;33;Básico;Drama;10;Brasil;Belo Horizonte;TV
+122;2025-05-11;28;Básico;Drama;70;Estados Unidos;New York;Celular
+123;2025-01-01;47;Básico;Animação;216;Reino Unido;Liverpool;TV
+124;2025-01-05;33;Básico;Documentário;224;Brasil;Curitiba;Computador
+125;2025-05-22;5;Família;Comédia;79;Alemanha;Hamburg;Celular
+126;2025-04-13;48;Premium;Animação;8;Estados Unidos;Los Angeles;Celular
+127;2025-01-27;19;Básico;Comédia;83;Brasil;Curitiba;Celular
+128;2025-05-17;4;Família;Comédia;138;Canadá;Toronto;Computador
+129;2025-01-15;35;Premium;Comédia;122;Reino Unido;Liverpool;TV
+130;2025-03-31;49;Básico;Animação;117;Brasil;Belo Horizonte;Celular
+131;2025-02-11;17;Básico;Drama;98;Estados Unidos;Miami;Celular
+132;2025-05-04;44;Básico;Drama;234;Canadá;Toronto;TV
+133;2025-06-28;28;Básico;Comédia;183;Estados Unidos;Chicago;Computador
+134;2025-03-04;30;Premium;Documentário;66;Estados Unidos;Chicago;Computador
+135;2025-04-06;29;Premium;Ação;189;Canadá;Montreal;Celular
+136;2025-02-21;46;Básico;Animação;198;Estados Unidos;Los Angeles;Computador
+137;2025-04-06;6;Família;Ação;83;Canadá;Vancouver;Computador
+138;2025-05-12;35;Premium;Documentário;207;Brasil;Curitiba;Celular
+139;2025-05-31;41;Básico;Animação;140;Canadá;Toronto;Computador
+140;2025-05-23;37;Família;Comédia;30;Canadá;Vancouver;Celular
+141;2025-06-20;24;Família;Drama;183;Reino Unido;Liverpool;Celular
+142;2025-01-29;29;Família;Ação;177;Canadá;Montreal;Celular
+143;2025-02-05;49;Básico;Terror;48;Canadá;Montreal;Computador
+144;2025-01-13;46;Premium;Terror;137;Brasil;Recife;TV
+145;2025-06-09;31;Premium;Documentário;74;Reino Unido;Liverpool;Computador
+146;2025-03-12;35;Premium;Comédia;158;Alemanha;Berlin;Computador
+147;2025-03-27;33;Família;Ação;122;Brasil;Belo Horizonte;TV
+148;2025-01-28;21;Premium;Comédia;72;Brasil;Curitiba;Computador
+149;2025-03-07;32;Premium;Ação;23;Alemanha;Hamburg;TV
+150;2025-06-19;23;Família;Documentário;216;Canadá;Vancouver;TV
+151;2025-02-14;33;Premium;Documentário;229;Estados Unidos;New York;Celular
+152;2025-03-03;3;Básico;Terror;24;Reino Unido;Manchester;TV
+153;2025-05-14;18;Básico;Comédia;117;Estados Unidos;Los Angeles;Computador
+154;2025-01-28;25;Básico;Animação;144;Alemanha;Berlin;Computador
+155;2025-01-28;42;Família;Terror;51;Brasil;São Paulo;Celular
+156;2025-04-18;31;Básico;Comédia;5;Brasil;São Paulo;TV
+157;2025-02-13;3;Premium;Terror;94;Reino Unido;London;TV
+158;2025-03-25;40;Básico;Animação;146;Brasil;São Paulo;Celular
+159;2025-01-30;46;Premium;Drama;68;Brasil;São Paulo;Tablet
+160;2025-03-16;24;Família;Drama;42;Reino Unido;London;Celular
+161;2025-05-08;50;Família;Drama;41;Reino Unido;Liverpool;TV
+162;2025-04-02;32;Básico;Drama;130;Alemanha;Munich;Celular
+163;2025-05-09;47;Família;Ação;143;Brasil;São Paulo;Celular
+164;2025-05-01;22;Premium;Drama;104;Brasil;Belo Horizonte;Computador
+165;2025-01-27;23;Básico;Animação;81;Alemanha;Hamburg;TV
+166;2025-05-01;2;Premium;Documentário;239;Canadá;Vancouver;Computador
+167;2025-04-26;27;Básico;Documentário;7;Canadá;Toronto;Celular
+168;2025-01-03;42;Básico;Ação;165;Canadá;Montreal;Tablet
+169;2025-04-13;2;Premium;Drama;138;Alemanha;Munich;TV
+170;2025-06-04;26;Básico;Drama;182;Brasil;Rio de Janeiro;Celular
+171;2025-05-17;17;Básico;Drama;14;Alemanha;Hamburg;Computador
+172;2025-03-03;40;Básico;Terror;9;Alemanha;Berlin;TV
+173;2025-06-14;33;Básico;Comédia;155;Canadá;Montreal;Computador
+174;2025-02-20;9;Básico;Terror;142;Estados Unidos;Chicago;Celular
+175;2025-06-21;43;Premium;Comédia;176;Brasil;São Paulo;TV
+176;2025-06-01;48;Premium;Drama;134;Canadá;Toronto;TV
+177;2025-02-28;39;Premium;Drama;17;Estados Unidos;New York;Celular
+178;2025-04-28;29;Premium;Terror;172;Estados Unidos;Los Angeles;TV
+179;2025-06-09;42;Premium;Terror;134;Reino Unido;London;Celular
+180;2025-04-06;26;Premium;Comédia;88;Brasil;São Paulo;TV
+181;2025-06-29;35;Básico;Documentário;69;Estados Unidos;Chicago;Celular
+182;2025-04-23;50;Básico;Comédia;67;Canadá;Vancouver;TV
+183;2025-03-03;25;Básico;Terror;105;Reino Unido;Liverpool;Computador
+184;2025-02-21;24;Básico;Animação;77;Brasil;Curitiba;Tablet
+185;2025-01-12;13;Premium;Terror;21;Alemanha;Berlin;Tablet
+186;2025-02-08;7;Básico;Animação;13;Canadá;Montreal;Celular
+187;2025-05-10;36;Premium;Ação;207;Estados Unidos;New York;TV
+188;2025-05-11;45;Família;Terror;147;Estados Unidos;Los Angeles;Computador
+189;2025-04-23;20;Premium;Ação;156;Canadá;Vancouver;TV
+190;2025-04-11;1;Básico;Documentário;42;Estados Unidos;Miami;TV
+191;2025-04-23;8;Básico;Comédia;167;Reino Unido;London;TV
+192;2025-03-22;46;Família;Animação;98;Brasil;Rio de Janeiro;Celular
+193;2025-04-23;16;Família;Comédia;99;Reino Unido;London;Computador
+194;2025-01-02;14;Básico;Ação;53;Estados Unidos;Miami;Celular
+195;2025-05-10;12;Premium;Animação;73;Alemanha;Hamburg;Celular
+196;2025-02-23;23;Básico;Comédia;66;Brasil;Belo Horizonte;TV
+197;2025-03-28;15;Básico;Terror;192;Brasil;Rio de Janeiro;Tablet
+198;2025-05-09;28;Básico;Drama;240;Canadá;Toronto;Celular
+199;2025-05-27;34;Básico;Ação;182;Canadá;Toronto;Celular
+200;2025-05-06;2;Família;Comédia;82;Alemanha;Munich;TV
